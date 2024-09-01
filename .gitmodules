@@ -1,0 +1,3 @@
+[submodule "project/addons/defaults"]
+	path = project/addons/defaults
+	url = git@github.com:zaftnotameni/godot-defaults.git
