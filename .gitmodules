@@ -1,3 +1,6 @@
 [submodule "project/addons/defaults"]
 	path = project/addons/defaults
 	url = git@github.com:zaftnotameni/godot-defaults.git
+[submodule "bat"]
+	path = bat
+	url = git@github.com:zaftnotameni/godot-itch-deploy-scripts.git
